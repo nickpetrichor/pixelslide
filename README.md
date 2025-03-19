@@ -1,10 +1,15 @@
 # PixelSlide
 
-PixelSlide is a modern iOS application built with SwiftUI for pixel-perfect image editing and manipulation.
+PixelSlide is a modern iOS puzzle game built with SwiftUI that challenges players to solve sliding tile puzzles. Players can slide pieces of an image around to reconstruct the complete picture.
 
 ## Features
 
-*Coming soon*
+- Classic sliding puzzle gameplay
+- Multiple difficulty levels
+- Custom image support
+- Smooth animations and intuitive touch controls
+- Move counter and timer to track your progress
+- Achievement system
 
 ## Requirements
 
